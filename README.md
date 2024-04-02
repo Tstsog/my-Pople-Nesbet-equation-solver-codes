@@ -1,22 +1,22 @@
 # my-Pople-Nesbet-equation-solver-codes
 
-Publisher
+## Publisher
 
 Author: Tsogbayar Tsednee (PhD) Contact: tsog215@gmail.com
 
-Introduction:
+## Introduction:
 
 The Matlab codes computes the ground state energy for atoms solving the Pople-Nesbet equation in terms of unrestricted Hartree-Fock calculation.
 
-Requirement:
+## Requirement:
 
 Any version of Matlab
 
-Implementation details and running
+## Implementation details and running
 
 You may download and run them.
 
-Copyright / License
+## Copyright / License
 
 These codes are published as freeware. Basically, you have the right to use them and modify any of them.
 
