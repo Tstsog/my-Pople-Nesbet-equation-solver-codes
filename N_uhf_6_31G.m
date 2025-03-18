@@ -1,4 +1,4 @@
-% This Matlab code computes the ground state energy for lithium (Li) atom by solving the Pople-Nesbet equation using the
+% This Matlab code computes the ground state energy for nitrogen (N) atom by solving the Pople-Nesbet equation using the
 % 6-31G basis set ([3s2p]) (unrestricted Hartree-Fock (uhf) calculation). 
 %
 % The core Hamiltonian matrix (H_core), overlap matrix (S_ov) and two-electron integrals (tei) (Li_6_31G_tei.txt) are computed 
